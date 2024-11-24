@@ -1,0 +1,92 @@
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\bin\Debug\BCUniSphere.exe.config
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\bin\Debug\BCUniSphere.exe
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\bin\Debug\BCUniSphere.pdb
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.exe
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.pdb
+C:\Users\tnthe\OneDrive\Desktop\PRG282 Project\New folder\BCUniSphere\obj\Debug\BCUniSphere.Details.resources
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\bin\Debug\BCUniSphere.exe.config
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\bin\Debug\BCUniSphere.exe
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\bin\Debug\BCUniSphere.pdb
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.Details.resources
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.exe
+C:\Users\danil\Downloads\BCUniSphere\BCUniSphere - Copy\obj\Debug\BCUniSphere.pdb
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\bin\Debug\BCUniSphere.exe.config
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\bin\Debug\BCUniSphere.exe
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\bin\Debug\BCUniSphere.pdb
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.Details.resources
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.exe
+C:\Users\Dérik\Downloads\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.pdb
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\bin\Debug\BCUniSphere.exe.config
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\bin\Debug\BCUniSphere.exe
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\bin\Debug\BCUniSphere.pdb
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.StudentsDetails.resources
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.PresentationLayer.MainDetail.resources
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.PresentationLayer.ModulesDetails.resources
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.exe
+C:\Users\tnthe\Downloads\BCUniSphereNuwe\BCUniSphereLogin&SignupComplete\BCUniSphere - Copy\obj\Debug\BCUniSphere.pdb
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\bin\Debug\BCUniSphere.exe.config
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\bin\Debug\BCUniSphere.exe
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\bin\Debug\BCUniSphere.pdb
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.StudentsDetails.resources
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.PresentationLayer.MainDetail.resources
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.PresentationLayer.ModulesDetails.resources
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.exe
+C:\Users\tnthe\OneDrive\Desktop\BCUniSphere(1)\Solution\obj\Debug\BCUniSphere.pdb
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\bin\Debug\BCUniSphere.exe.config
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\bin\Debug\BCUniSphere.exe
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\bin\Debug\BCUniSphere.pdb
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.StudentsDetails.resources
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.PresentationLayer.MainDetail.resources
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.PresentationLayer.ModulesDetails.resources
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.exe
+C:\Users\danil\Downloads\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.pdb
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\bin\Debug\BCUniSphere.exe.config
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\bin\Debug\BCUniSphere.exe
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\bin\Debug\BCUniSphere.pdb
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.csproj.AssemblyReference.cache
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.CreateAccount.resources
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.StudentsDetails.resources
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.PresentationLayer.MainDetail.resources
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.LoginIn.resources
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.PresentationLayer.ModulesDetails.resources
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.Properties.Resources.resources
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.exe
+C:\Users\danil\Downloads\BCUniSphereFinal(577735)\BCUniSphereFinal577735\BCUniSphere\Solution\obj\Debug\BCUniSphere.pdb
